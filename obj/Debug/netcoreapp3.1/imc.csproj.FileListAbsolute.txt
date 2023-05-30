@@ -1,0 +1,12 @@
+/Users/juliacoelho/Desktop/imc/bin/Debug/netcoreapp3.1/imc.deps.json
+/Users/juliacoelho/Desktop/imc/bin/Debug/netcoreapp3.1/imc.runtimeconfig.json
+/Users/juliacoelho/Desktop/imc/bin/Debug/netcoreapp3.1/imc.runtimeconfig.dev.json
+/Users/juliacoelho/Desktop/imc/bin/Debug/netcoreapp3.1/imc.dll
+/Users/juliacoelho/Desktop/imc/bin/Debug/netcoreapp3.1/imc.pdb
+/Users/juliacoelho/Desktop/imc/obj/Debug/netcoreapp3.1/imc.csprojAssemblyReference.cache
+/Users/juliacoelho/Desktop/imc/obj/Debug/netcoreapp3.1/imc.AssemblyInfoInputs.cache
+/Users/juliacoelho/Desktop/imc/obj/Debug/netcoreapp3.1/imc.AssemblyInfo.cs
+/Users/juliacoelho/Desktop/imc/obj/Debug/netcoreapp3.1/imc.csproj.CoreCompileInputs.cache
+/Users/juliacoelho/Desktop/imc/obj/Debug/netcoreapp3.1/imc.dll
+/Users/juliacoelho/Desktop/imc/obj/Debug/netcoreapp3.1/imc.pdb
+/Users/juliacoelho/Desktop/imc/obj/Debug/netcoreapp3.1/imc.genruntimeconfig.cache
